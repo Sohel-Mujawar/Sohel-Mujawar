@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ)
+![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 
 <h1 align="center">Hi 👋, I'm Sohel Mujawar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
