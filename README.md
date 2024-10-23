@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif)
+![MasterHead](https://camo.githubusercontent.com/0133b8459e658004e50eb0ef32f2806e2cf25fc2c9e53944c9b709d7734f8bf9/68747470733a2f2f696b2e696d6167656b69742e696f2f647265736d612f447265736d615f4c6962726172792f73656e696f722d736f6674776172652d656e67696e6565725f57793832745951796d2e676966)
 
 <h1 align="center">Hi 👋, I'm Sohel Mujawar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
