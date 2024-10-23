@@ -1,8 +1,8 @@
-![MasterHead](https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffm9dtfef0828cdghi9aq.gif)
+![MasterHead](https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ)
 
 <h1 align="center">Hi 👋, I'm Sohel Mujawar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<img align="right" alt ="Developer" width ="400" src="https://www.freepik.com/free-ai-image/view-3d-man-holding-laptop_59994378.htm?log-in=google#fromView=keyword&page=1&position=0&uuid=118aae52-f305-4b89-9c29-6ab133dee80a">
+<img align="right" alt ="Developer" width ="400" src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-programmer-clipart-developer-sitting-behind-his-computer-in-glasses-cartoon-vector-png-image_6815441.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohel-mujawar&label=Profile%20views&color=0e75b6&style=flat" alt="sohel-mujawar" /> </p>
