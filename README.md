@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sohel Mujawar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<img align="right" alt ="Developer" width ="400" src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-programmer-clipart-developer-sitting-behind-his-computer-in-glasses-cartoon-vector-png-image_6815441.png">
+<img align="right" alt ="Developer" width ="400" src="https://pixcap.com/cdn/library/template/1718813797962/thumbnail/Man_Talking_transparent_400_400.webp">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohel-mujawar&label=Profile%20views&color=0e75b6&style=flat" alt="sohel-mujawar" /> </p>
