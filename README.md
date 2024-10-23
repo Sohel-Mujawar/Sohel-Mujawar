@@ -1,4 +1,4 @@
-[MasterHead](https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffm9dtfef0828cdghi9aq.gif)
+![MasterHead](https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffm9dtfef0828cdghi9aq.gif)
 
 <h1 align="center">Hi 👋, I'm Sohel Mujawar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
