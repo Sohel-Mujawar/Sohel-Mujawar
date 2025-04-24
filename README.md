@@ -1,5 +1,4 @@
-![MasterHead]
-(https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffm9dtfef0828cdghi9aq.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![MasterHead](https://camo.githubusercontent.com/0133b8459e658004e50eb0ef32f2806e2cf25fc2c9e53944c9b709d7734f8bf9/68747470733a2f2f696b2e696d6167656b69742e696f2f647265736d612f447265736d615f4c6962726172792f73656e696f722d736f6674776172652d656e67696e6565725f57793832745951796d2e676966)
 <h1 align="center">Hi 👋, I'm Sohel Mujawar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt ="Developer" width ="400" src="https://pixcap.com/cdn/library/template/1718813797962/thumbnail/Man_Talking_transparent_400_400.webp">
